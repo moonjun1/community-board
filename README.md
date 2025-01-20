@@ -1,8 +1,8 @@
 # 🌟 Community Board Project
 
-<p align="center">
- <img src="project-logo.png" alt="project-logo" width="200">
-</p>
+
+
+![image](https://github.com/user-attachments/assets/714f76bf-d32e-42c6-9379-d7c7d02936a6)
 
 ## 📝 프로젝트 소개
 > React와 Node.js를 활용한 커뮤니티 게시판입니다. 사용자들이 게시글을 작성하고 댓글을 통해 소통할 수 있습니다.
@@ -159,4 +159,4 @@ community-board/
 - 알림 센터
 
 
-![image](https://github.com/user-attachments/assets/714f76bf-d32e-42c6-9379-d7c7d02936a6)
+
