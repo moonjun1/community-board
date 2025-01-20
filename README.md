@@ -157,3 +157,6 @@ community-board/
 - 답글 알림
 - 읽음/안읽음 표시
 - 알림 센터
+
+
+![image](https://github.com/user-attachments/assets/714f76bf-d32e-42c6-9379-d7c7d02936a6)
